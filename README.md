@@ -2,7 +2,7 @@
 automatic unity game updater/installer
 
 installer/updater for video games
-(made in unity but will work with any engine)
+(made in unity but will work with games made in any engine)
 
 SETUP INSTRUCTIONS:
 
